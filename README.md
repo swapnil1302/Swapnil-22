@@ -1,5 +1,6 @@
 
 **Calories Burnt Prediction using Machine Learning**
+
 **Overview**
 This repository contains a machine learning project focused on predicting calories burnt based on various features. 
 The project utilizes popular machine learning libraries such as **scikit-learn, XGBoost, and seaborn for data visualization.**
