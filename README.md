@@ -8,7 +8,9 @@ The project utilizes popular machine learning libraries such as **scikit-learn, 
 **Features**
 Linear Regression, Random Forest, and XGBoost regression models are implemented for predicting calories burnt.
 The dataset is preprocessed using scikit-learn's **StandardScaler** and **OrdinalEncoder**.
-Model evaluation is performed using the R-squared metric, and cross-validation is employed to assess the model's robustness.
+
+**Model evaluation** is performed using the R-squared metric, and cross-validation is employed to assess the model's robustness.
+
 
 **Libraries and Tools**
 **seaborn**: Used for data visualization.
