@@ -14,9 +14,6 @@ The dataset is preprocessed using scikit-learn's **StandardScaler** and **Ordina
 
 **Libraries and Tools**
 **seaborn**: Used for data visualization.
-
 **matplotlib**: Used for creating plots and charts.
-
 **scikit-learn**: Utilized for machine learning models, preprocessing, and evaluation.
-
 **XGBoost**: Employed for implementing the XGBoost regression model.
